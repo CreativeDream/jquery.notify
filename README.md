@@ -7,9 +7,22 @@ __<a href="http://creativedream.net/plugins/jquery.notify/" target="_blank">Demo
 
 Usage
 -------
+__Styles:__
+
+Include the jquery.notify css file in your html page.
+~~~~ html
+<link href="jquery.notify.css" type="text/css" rel="stylesheet" />
+~~~~
+__Javascript:__
+
+Include the jQuery libraray and jquery.dropdown script file in your html page.
+~~~~ html
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="jquery.notify.min.js"></script>
+~~~~
+
 The function is called 'notify'. So just call it ;)
 ~~~ javascript
-
 notify({
 	type: "alert", //alert | success | error | warning | info
 	title: "jQuery.Notify",
@@ -32,7 +45,6 @@ notify({
 	onHide: null, //function
 	template: '<div class="notify"><div class="notify-text"></div></div>'
 });
-	
 ~~~~
 
 License
