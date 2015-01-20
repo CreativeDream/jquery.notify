@@ -15,7 +15,7 @@ Include the jquery.notify css file in your html page.
 ~~~~
 __Javascript:__
 
-Include the jQuery libraray and jquery.dropdown script file in your html page.
+Include the jQuery libraray and jquery.notify script file in your html page.
 ~~~~ html
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="jquery.notify.min.js"></script>
