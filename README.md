@@ -3,7 +3,7 @@ jQuery.notify 1.0
 
 jQuery.notify is a jQuery plugin that makes it easy to create alert - success - error - warning - information messages as an alternative the standard alert dialog.
 
-__<a href="http://creativedream.net/plugins/jquery.notify/" target="_blank">Demo Page</a>__
+__<a href="http://grandesign.md/__cr/plugins/jquery.notify/" target="_blank">Demo Page</a>__
 
 Usage
 -------
